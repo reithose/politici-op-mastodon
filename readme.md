@@ -111,7 +111,7 @@ Met minstens één bericht
 | Wieke Paulusma          |                                                                                 |
 | Cor Pierik              |                                                                                 |
 | Anita Pijpelink         |                                                                                 |
-| Kati Piri               |                                                                                 |
+| Kati Piri               | [@katipiri@respublicae.eu](https://respublicae.eu/@katipiri)                    | ❌                               |
 | Caroline van der Plas   |                                                                                 |
 | Anne-Marijke Podt       | [@Annemarijke@mastodon.social](https://mastodon.social/@Annemarijke)            | ❌                               |
 | Joeri Pool              |                                                                                 |
@@ -134,7 +134,7 @@ Met minstens één bericht
 | Folkert Thiadens        |                                                                                 |
 | Joris Thijssen          |                                                                                 |
 | Judith Tielen           |                                                                                 |
-| Frans Timmermans        |                                                                                 |
+| Frans Timmermans        | [@TimmermansEU@respublicae.eu](https://respublicae.eu/@TimmermansEU)            | ✅                               |
 | Mikal Tseggai           |                                                                                 |
 | Nico Uppelschoten       |                                                                                 |
 | Jan Valize              |                                                                                 |
