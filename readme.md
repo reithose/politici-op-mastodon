@@ -134,7 +134,7 @@ Met minstens één bericht
 | Folkert Thiadens        |                                                                                 |
 | Joris Thijssen          |                                                                                 |
 | Judith Tielen           |                                                                                 |
-| Frans Timmermans        | [@TimmermansEU@respublicae.eu](https://respublicae.eu/@TimmermansEU)            | ✅                               |
+| Frans Timmermans        | [@TimmermansEU@respublicae.eu](https://respublicae.eu/@TimmermansEU)            | ❌                               |
 | Mikal Tseggai           |                                                                                 |
 | Nico Uppelschoten       |                                                                                 |
 | Jan Valize              |                                                                                 |
