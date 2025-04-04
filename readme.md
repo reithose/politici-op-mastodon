@@ -1,14 +1,16 @@
 # Nederlandse politici op Mastodon
 
-Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS.
+Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS. Voor een gezonde, open democratie moet je communiceren via gezonde en open platforms zoals Mastodon (of de [Fediverse](https://nl.wikipedia.org/wiki/Fediverse)). Hoewel er [veel over wordt](https://tweakers.net/nieuws/232900/groot-deel-van-tweede-kamer-wil-sidn-migratie-naar-aws-tegenhouden.html) [gesproken](https://ibestuur.nl/artikel/kamer-zet-inhaalspurt-digitale-autonomie-in/), geven politici niet het goede voorbeeld zoals hieronder te zien is.
+
+Hieronder staan Nederlandse politici met minstens één bericht op Mastodon.
+
+Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici-op-mastodon/edit/main/readme.md)!
 
 - [Tweede Kamerleden](#tweede-kamerleden)
 - [Leden van het Europees Parlement](#leden-van-het-europees-parlement)
 - [Overig](#overig)
 
 ## Tweede Kamerleden
-
-Met minstens één bericht
 
 | Naam                    | Mastodon                                                                        | Actief in de laatste 12 maanden? |
 | ----------------------- | ------------------------------------------------------------------------------- | -------------------------------- |
