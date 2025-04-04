@@ -1,6 +1,10 @@
 # Nederlandse politici op Mastodon
 
-Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS
+Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS. 
+
+- [Tweede Kamerleden](#tweede-kamerleden)
+- [Leden van het Europees Parlement](#leden-van-het-europees-parlement)
+- [Overig](#overig)
 
 ## Tweede Kamerleden
 
@@ -158,3 +162,17 @@ Met minstens één bericht
 | Natascha Wingelaar      |                                                                                 |
 | Dilan Yeşilgöz          |                                                                                 |
 | Claudia van Zanten      |                                                                                 |
+
+
+# Leden van het Europees Parlement
+
+| Naam                    | Mastodon                                                                        | Actief in de laatste 12 maanden? |
+| ----------------------- | ------------------------------------------------------------------------------- | -------------------------------- |
+| Bart Groothuis           |     [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis)    |    ✅                           |
+
+# Overig
+
+| Naam                    |Functie| Mastodon                                                                        | Actief in de laatste 12 maanden? |
+| ----------------------- | ----|------------------------------------------------------------------------------- | -------------------------------- |
+| Alexandra van Huffelen     |    Voorzitter D66  |     [@alexandravanhuffelen@mastodon.social](https://mastodon.social/@alexandravanhuffelen)    |    ✅                           |
+
