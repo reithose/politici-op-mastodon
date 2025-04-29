@@ -157,7 +157,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Sander van Waveren      |                                                                                 |
 | Merlien Welzijn         |                                                                                 |
 | Hanneke van der Werf    |                                                                                 |
-| Lisa Westerveld         | [@LisaWesterveld@mastodon.social](https://mastodon.social/@LisaWesterveld)      | ❌                               |
+| Lisa Westerveld         | [@LisaWesterveld@mastodon.social](https://mastodon.social/@LisaWesterveld)      | ✅                               |
 | Raoul White             |                                                                                 |
 | Marieke Wijen-Nass      |                                                                                 |
 | Geert Wilders           |                                                                                 |
