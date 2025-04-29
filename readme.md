@@ -30,6 +30,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Volt                  | [@voltnederland@mastodon.nl](https://mastodon.nl/@voltnederland)                   | ✅                               |
 | D66                   | [@D66@mastodon.social](https://mastodon.social/@D66)                               | ❌                               |
 | Partij voor de Dieren | [@PartijvoordeDieren@mastodon.social](https://mastodon.social/@PartijvoordeDieren) | ✅                               |
+| Piratenpartij         | [@Piratenpartij@mastodon.social](https://mastodon.social/@Piratenpartij)           | ✅                               |
 
 ## Gemeentelijk
 
