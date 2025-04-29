@@ -27,10 +27,11 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 | Partij                | Mastodon                                                                           | Actief in de laatste 12 maanden? |
 | --------------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
-| Volt                  | [@voltnederland@mastodon.nl](https://mastodon.nl/@voltnederland)                   | ✅                               |
+| BIJ1                  | [@BIJ1@social.bij1.org](https://social.bij1.org/@BIJ1)                             | ✅                               |
 | D66                   | [@D66@mastodon.social](https://mastodon.social/@D66)                               | ❌                               |
 | Partij voor de Dieren | [@PartijvoordeDieren@mastodon.social](https://mastodon.social/@PartijvoordeDieren) | ✅                               |
 | Piratenpartij         | [@Piratenpartij@mastodon.social](https://mastodon.social/@Piratenpartij)           | ✅                               |
+| Volt                  | [@voltnederland@mastodon.nl](https://mastodon.nl/@voltnederland)                   | ✅                               |
 
 ## Gemeentelijk
 
@@ -44,6 +45,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 | Partij                | Plaats           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
 | --------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| BIJ1                  | Arnhem           | [@ArnhemNijmegenBIJ1@social.bij1.org](https://social.bij1.org/@ArnhemNijmegenBIJ1)   | ✅                               |
 | GroenLinks            | Amsterdam        | [@groenlinks020@mastodon.social](https://mastodon.social/@groenlinks020)             | ❌                               |
 | Partij voor de Dieren | Amsterdam        | [@pvddamsterdam@mastodon.social](https://mastodon.social/@pvddamsterdam)             | ❌                               |
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
