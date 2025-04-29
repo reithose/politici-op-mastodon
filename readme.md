@@ -10,13 +10,15 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 - [Leden van het Europees Parlement](#leden-van-het-europees-parlement)
 - [Overig](#overig)
 
-## Tweede Kamerleden
+## Landelijk
+
+### Tweede Kamerleden
 
 | Naam                    | Mastodon                                                                        | Actief in de laatste 12 maanden? |
 | ----------------------- | ------------------------------------------------------------------------------- | -------------------------------- |
-| Max Aardema             |                                                                                 |
-| Thierry Aartsen         |                                                                                 |
-| Ismail el Abassi        |                                                                                 |
+| Max Aardema             |                                                                                 |                                  |
+| Thierry Aartsen         |                                                                                 |                                  |
+| Ismail el Abassi        |                                                                                 |                                  |
 | Stephan van Baarle      |                                                                                 |
 | Mpanzu Bamenga          |                                                                                 |
 | Thierry Baudet          |                                                                                 |
@@ -165,12 +167,19 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Dilan Yeşilgöz          |                                                                                 |
 | Claudia van Zanten      |                                                                                 |
 
+### Partijen
+
+| Partij | Mastodon                                                                         | Actief in de laatste 12 maanden? |
+| ------ | -------------------------------------------------------------------------------- | -------------------------------- |
+| Volt   | [@voltnederland@mastodon.nl](https://mastodon.social/@voltnederland@mastodon.nl) | ✅                               |
+| D66    | [@D66@mastodon.social](https://mastodon.social/@D66)                             | ❌                               |
+
 ## Leden van het Europees Parlement
 
-| Naam           | Mastodon                                                                 | Actief in de laatste 12 maanden? |
-| -------------- | ------------------------------------------------------------------------ | -------------------------------- |
-| Bart Groothuis | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis) | ✅                               |
-|Kim van Sparrentak|[@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak)|✅     |
+| Naam               | Mastodon                                                                   | Actief in de laatste 12 maanden? |
+| ------------------ | -------------------------------------------------------------------------- | -------------------------------- |
+| Bart Groothuis     | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis)   | ✅                               |
+| Kim van Sparrentak | [@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak) | ✅                               |
 
 ## Overig
 
