@@ -170,6 +170,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Naam           | Mastodon                                                                 | Actief in de laatste 12 maanden? |
 | -------------- | ------------------------------------------------------------------------ | -------------------------------- |
 | Bart Groothuis | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis) | ✅                               |
+|Kim van Sparrentak|[@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak)|✅     |
 
 ## Overig
 
