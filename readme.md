@@ -44,8 +44,8 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 | Partij                | Plaats           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
 | --------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
-| GroenLinks            | Amsterdam        | [@groenlinks020@mastodon.social](https://mastodon.social/@groenlinks020)             | ✅                               |
-| Partij voor de Dieren | Amsterdam        | [@pvddamsterdam@mastodon.social](https://mastodon.social/@pvddamsterdam)             | ✅                               |
+| GroenLinks            | Amsterdam        | [@groenlinks020@mastodon.social](https://mastodon.social/@groenlinks020)             | ❌                               |
+| Partij voor de Dieren | Amsterdam        | [@pvddamsterdam@mastodon.social](https://mastodon.social/@pvddamsterdam)             | ❌                               |
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
 | D66                   | Nijmegen         | [@D66Nijmegen@mastodon.nl](https://mastodon.nl/@D66Nijmegen)                         | ❌                               |
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
