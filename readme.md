@@ -1,14 +1,10 @@
 # Nederlandse politici op Mastodon
 
-Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS. Voor een gezonde, open democratie moet je communiceren via gezonde en open platforms zoals Mastodon (of de [Fediverse](https://nl.wikipedia.org/wiki/Fediverse)). Hoewel er [veel over wordt](https://tweakers.net/nieuws/232900/groot-deel-van-tweede-kamer-wil-sidn-migratie-naar-aws-tegenhouden.html) [gesproken](https://ibestuur.nl/artikel/kamer-zet-inhaalspurt-digitale-autonomie-in/), geven politici niet het goede voorbeeld zoals hieronder te zien is.
+Onze volksvertegenwoordigers zijn voor hun communicatie met kiezers veel te afhankelijk van Big Tech uit de VS. Voor een gezonde, open democratie moet je communiceren via gezonde en open platforms zoals Mastodon (of de [Fediverse](https://nl.wikipedia.org/wiki/Fediverse)). Hoewel er [veel over wordt](https://tweakers.net/nieuws/232900/groot-deel-van-tweede-kamer-wil-sidn-migratie-naar-aws-tegenhouden.html) [gesproken](https://ibestuur.nl/artikel/kamer-zet-inhaalspurt-digitale-autonomie-in/), geven politici niet het goede voorbeeld. De positieve uitzonderingen staan hieronder.
 
-Hieronder staan Nederlandse politici met minstens één bericht op Mastodon.
+Op de lijst staan Nederlandse politici en partijen met minstens één bericht op Mastodon.
 
 Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici-op-mastodon/edit/main/readme.md)!
-
-- [Tweede Kamerleden](#tweede-kamerleden)
-- [Leden van het Europees Parlement](#leden-van-het-europees-parlement)
-- [Overig](#overig)
 
 ## Landelijk
 
@@ -29,10 +25,11 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 ### Partijen
 
-| Partij | Mastodon                                                                         | Actief in de laatste 12 maanden? |
-| ------ | -------------------------------------------------------------------------------- | -------------------------------- |
-| Volt   | [@voltnederland@mastodon.nl](https://mastodon.social/@voltnederland@mastodon.nl) | ✅                               |
-| D66    | [@D66@mastodon.social](https://mastodon.social/@D66)                             | ❌                               |
+| Partij                | Mastodon                                                                           | Actief in de laatste 12 maanden? |
+| --------------------- | ---------------------------------------------------------------------------------- | -------------------------------- |
+| Volt                  | [@voltnederland@mastodon.nl](https://mastodon.social/@voltnederland@mastodon.nl)   | ✅                               |
+| D66                   | [@D66@mastodon.social](https://mastodon.social/@D66)                               | ❌                               |
+| Partij voor de Dieren | [@PartijvoordeDieren@mastodon.social](https://mastodon.social/@PartijvoordeDieren) | ✅                               |
 
 ## Leden van het Europees Parlement
 
