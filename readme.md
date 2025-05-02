@@ -51,6 +51,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
 | D66                   | Nijmegen         | [@D66Nijmegen@mastodon.nl](https://mastodon.nl/@D66Nijmegen)                         | ❌                               |
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
+|GroenLinks|Meppel|[@glmeppel@mastodon.social](https://mastodon.social/@glmeppel@mastodon.nl)| ✅                               |
 | D66                   | Ooststellingwerf | [@D66Ooststellingwerf@mastodon.social](https://mastodon.social/@D66Ooststellingwerf) | ✅                               |
 
 ## Provinciaal
