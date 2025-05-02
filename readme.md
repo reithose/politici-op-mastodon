@@ -53,7 +53,17 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
 | D66                   | Ooststellingwerf | [@D66Ooststellingwerf@mastodon.social](https://mastodon.social/@D66Ooststellingwerf) | ✅                               |
 
-## Leden van het Europees Parlement
+## Provinciaal
+
+### Partijen
+
+| Partij                | Provincie           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
+| --------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| Partij voor de Dieren             | Drente           | [@Statenfractie_PvdD_Drenthe@mastodon.social](https://mastodon.social/@Statenfractie_PvdD_Drenthe)   | ✅                               |
+
+## Europees
+
+### Leden van het Europees Parlement
 
 | Naam               | Mastodon                                                                   | Actief in de laatste 12 maanden? |
 | ------------------ | -------------------------------------------------------------------------- | -------------------------------- |
