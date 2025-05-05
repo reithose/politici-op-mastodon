@@ -35,11 +35,12 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 ## Gemeentelijk
 
-### Raadsleden
+### Raadsleden en wethouders
 
 | Naam          | Partij                | Plaats   | Mastdon                                                                  | Actief in de laatste 12 maanden? |
 | ------------- | --------------------- | -------- | ------------------------------------------------------------------------ | -------------------------------- |
 | Bart Salemans | Partij voor de Dieren | Nijmegen | [@lynchantropen@mastodon.social](https://mastodon.social/@lynchantropen) | ✅                               |
+| Tobias van Elferen|D66|Nijmegen|[@tvanelferen@mastodon.social](https://mastodon.social/@tvanelferen)|✅                               |
 
 ### Partijen
 
