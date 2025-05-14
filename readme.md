@@ -10,18 +10,18 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 ### Tweede Kamerleden
 
-| Naam              | Mastodon                                                                         | Actief in de laatste 12 maanden? |
-| ----------------- | -------------------------------------------------------------------------------- | -------------------------------- |
-| Henri Bontenbal   | [@HenriBontenbalCDA@mastodon.social](https://mastodon.social/@HenriBontenbalCDA) | ❌                               |
-| Laurens Dassen    | [@laurensdassen@mastodon.nl](https://mastodon.nl/@laurensdassen)                 | ✅                               |
-| Barbara Kathmann  | [@barbarakathmann@mstdn.social](https://mstdn.social/@barbarakathmann)           | ✅                               |
-| Jesse Klaver      | [@JesseKlaver@mstdn.social](https://mstdn.social/@JesseKlaver)                   | ❌                               |
-| Marieke Koekkoek  | [@mariekekoekkoek@mastodon.nl](https://mastodon.nl/@mariekekoekkoek)             | ✅                               |
-| Jan Paternotte    | [@JanPaternotte@mastodon.online](https://mastodon.online/@JanPaternotte)         | ❌                               |
-| Kati Piri         | [@katipiri@respublicae.eu](https://respublicae.eu/@katipiri)                     | ✅                               |
-| Anne-Marijke Podt | [@Annemarijke@mastodon.social](https://mastodon.social/@Annemarijke)             | ❌                               |
-| Frans Timmermans  | [@TimmermansEU@respublicae.eu](https://respublicae.eu/@TimmermansEU)             | ❌                               |
-| Lisa Westerveld   | [@LisaWesterveld@mastodon.social](https://mastodon.social/@LisaWesterveld)       | ✅                               |
+| Naam              | Partij          |                                                                                  | Mastodon | Actief in de laatste 12 maanden? |
+| ----------------- | --------------- | -------------------------------------------------------------------------------- | -------- | -------------------------------- |
+| Henri Bontenbal   | CDA             | [@HenriBontenbalCDA@mastodon.social](https://mastodon.social/@HenriBontenbalCDA) | ❌       |
+| Laurens Dassen    | Volt            | [@laurensdassen@mastodon.nl](https://mastodon.nl/@laurensdassen)                 | ✅       |
+| Barbara Kathmann  | GroenLinks-PvdA | [@barbarakathmann@mstdn.social](https://mstdn.social/@barbarakathmann)           | ✅       |
+| Jesse Klaver      | GroenLinks-PvdA | [@JesseKlaver@mstdn.social](https://mstdn.social/@JesseKlaver)                   | ❌       |
+| Marieke Koekkoek  | Volt            | [@mariekekoekkoek@mastodon.nl](https://mastodon.nl/@mariekekoekkoek)             | ✅       |
+| Jan Paternotte    | D66             | [@JanPaternotte@mastodon.online](https://mastodon.online/@JanPaternotte)         | ❌       |
+| Kati Piri         | GroenLinks-PvdA | [@katipiri@respublicae.eu](https://respublicae.eu/@katipiri)                     | ✅       |
+| Anne-Marijke Podt | D66             | [@Annemarijke@mastodon.social](https://mastodon.social/@Annemarijke)             | ❌       |
+| Frans Timmermans  | GroenLinks-PvdA | [@TimmermansEU@respublicae.eu](https://respublicae.eu/@TimmermansEU)             | ❌       |
+| Lisa Westerveld   | GroenLinks-PvdA | [@LisaWesterveld@mastodon.social](https://mastodon.social/@LisaWesterveld)       | ✅       |
 
 ### Partijen
 
@@ -57,7 +57,7 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Partij voor de Dieren | Amsterdam        | [@pvddamsterdam@mastodon.social](https://mastodon.social/@pvddamsterdam)             | ❌                               |
 | Piratenpartij         | Delft            | [@ppdelft@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@ppdelft)         | ✅                               |
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
-| STIP                  | Delft            | [@STIP@mastodon.social](https://mastodon.social/@STIP)                          | ❌                               |
+| STIP                  | Delft            | [@STIP@mastodon.social](https://mastodon.social/@STIP)                               | ❌                               |
 | D66                   | Nijmegen         | [@D66Nijmegen@mastodon.nl](https://mastodon.nl/@D66Nijmegen)                         | ❌                               |
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
 | GroenLinks            | Meppel           | [@glmeppel@mastodon.social](https://mastodon.social/@glmeppel@mastodon.nl)           | ✅                               |
@@ -81,10 +81,10 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 
 ### Leden van het Europees Parlement
 
-| Naam               | Mastodon                                                                   | Actief in de laatste 12 maanden? |
-| ------------------ | -------------------------------------------------------------------------- | -------------------------------- |
-| Bart Groothuis     | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis)   | ✅                               |
-| Kim van Sparrentak | [@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak) | ✅                               |
+| Naam               | Mastodon   |                                                                            | Actief in de laatste 12 maanden? |
+| ------------------ | ---------- | -------------------------------------------------------------------------- | -------------------------------- |
+| Bart Groothuis     | VVD        | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis)   | ✅                               |
+| Kim van Sparrentak | GroenLinks | [@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak) | ✅                               |
 
 ## Waterschappen
 
