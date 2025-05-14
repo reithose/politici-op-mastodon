@@ -33,14 +33,20 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Piratenpartij         | [@Piratenpartij@mastodon.social](https://mastodon.social/@Piratenpartij)           | ✅                               |
 | Volt                  | [@voltnederland@mastodon.nl](https://mastodon.nl/@voltnederland)                   | ✅                               |
 
+### Kabinet
+
+| Naam        | Beleidsterrein                                              | Mastodon                                                                                   | Actief in de laatste 12 maanden? |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------- |
+| Zsolt Szabó | Staatssecretaris voor Digitalisering en Koninkrijksrelaties | [@staatssecretarisbzk@social.overheid.nl](https://social.overheid.nl/@staatssecretarisbzk) | ✅                               |
+
 ## Gemeentelijk
 
 ### Raadsleden en wethouders
 
-| Naam          | Partij                | Plaats   | Mastdon                                                                  | Actief in de laatste 12 maanden? |
-| ------------- | --------------------- | -------- | ------------------------------------------------------------------------ | -------------------------------- |
-| Bart Salemans | Partij voor de Dieren | Nijmegen | [@lynchantropen@mastodon.social](https://mastodon.social/@lynchantropen) | ✅                               |
-| Tobias van Elferen|D66|Nijmegen|[@tvanelferen@mastodon.social](https://mastodon.social/@tvanelferen)|✅                               |
+| Naam               | Partij                | Plaats   | Mastdon                                                                  | Actief in de laatste 12 maanden? |
+| ------------------ | --------------------- | -------- | ------------------------------------------------------------------------ | -------------------------------- |
+| Bart Salemans      | Partij voor de Dieren | Nijmegen | [@lynchantropen@mastodon.social](https://mastodon.social/@lynchantropen) | ✅                               |
+| Tobias van Elferen | D66                   | Nijmegen | [@tvanelferen@mastodon.social](https://mastodon.social/@tvanelferen)     | ✅                               |
 
 ### Partijen
 
@@ -52,23 +58,22 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
 | D66                   | Nijmegen         | [@D66Nijmegen@mastodon.nl](https://mastodon.nl/@D66Nijmegen)                         | ❌                               |
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
-|GroenLinks|Meppel|[@glmeppel@mastodon.social](https://mastodon.social/@glmeppel@mastodon.nl)| ✅                               |
+| GroenLinks            | Meppel           | [@glmeppel@mastodon.social](https://mastodon.social/@glmeppel@mastodon.nl)           | ✅                               |
 | D66                   | Ooststellingwerf | [@D66Ooststellingwerf@mastodon.social](https://mastodon.social/@D66Ooststellingwerf) | ✅                               |
 
 ## Provinciaal
 
 ### Partijen
 
-| Partij                | Provincie           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
-| --------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
-| Partij voor de Dieren             | Drente           | [@Statenfractie_PvdD_Drenthe@mastodon.social](https://mastodon.social/@Statenfractie_PvdD_Drenthe)   | ✅                               |
+| Partij                | Provincie | Mastodon                                                                                           | Actief in de laatste 12 maanden? |
+| --------------------- | --------- | -------------------------------------------------------------------------------------------------- | -------------------------------- |
+| Partij voor de Dieren | Drente    | [@Statenfractie_PvdD_Drenthe@mastodon.social](https://mastodon.social/@Statenfractie_PvdD_Drenthe) | ✅                               |
 
 ### Statenleden en gedeputeerden
-| Naam |Partij                | Provincie           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
-| ---|------------------ | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
-| Siska Peeks |Partij voor de Dieren             | Drente           | [@SiskaPeeks@mstdn.social](https://mstdn.social/@SiskaPeeks)   | ✅          
 
-
+| Naam        | Partij                | Provincie | Mastodon                                                     | Actief in de laatste 12 maanden? |
+| ----------- | --------------------- | --------- | ------------------------------------------------------------ | -------------------------------- |
+| Siska Peeks | Partij voor de Dieren | Drente    | [@SiskaPeeks@mstdn.social](https://mstdn.social/@SiskaPeeks) | ✅                               |
 
 ## Europees
 
