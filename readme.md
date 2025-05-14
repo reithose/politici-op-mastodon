@@ -55,7 +55,9 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | BIJ1                  | Arnhem           | [@ArnhemNijmegenBIJ1@social.bij1.org](https://social.bij1.org/@ArnhemNijmegenBIJ1)   | ✅                               |
 | GroenLinks            | Amsterdam        | [@groenlinks020@mastodon.social](https://mastodon.social/@groenlinks020)             | ❌                               |
 | Partij voor de Dieren | Amsterdam        | [@pvddamsterdam@mastodon.social](https://mastodon.social/@pvddamsterdam)             | ❌                               |
+| Piratenpartij         | Delft            | [@ppdelft@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@ppdelft)         | ✅                               |
 | Partij voor de Dieren | Delft            | [@PvdDDelft@mastodon.social](https://mastodon.social/@PvdDDelft)                     | ✅                               |
+| STIP                  | Delft            | [@STIP@mastodon.social](https://mastodon.social/@STIP)                          | ❌                               |
 | D66                   | Nijmegen         | [@D66Nijmegen@mastodon.nl](https://mastodon.nl/@D66Nijmegen)                         | ❌                               |
 | GroenLinks            | Nijmegen         | [@glnijmegen@mastodon.nl](https://mastodon.nl/@glnijmegen)                           | ✅                               |
 | GroenLinks            | Meppel           | [@glmeppel@mastodon.social](https://mastodon.social/@glmeppel@mastodon.nl)           | ✅                               |
