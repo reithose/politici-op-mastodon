@@ -63,6 +63,13 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | --------------------- | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
 | Partij voor de Dieren             | Drente           | [@Statenfractie_PvdD_Drenthe@mastodon.social](https://mastodon.social/@Statenfractie_PvdD_Drenthe)   | ✅                               |
 
+### Statenleden en gedeputeerden
+| Naam |Partij                | Provincie           | Mastodon                                                                             | Actief in de laatste 12 maanden? |
+| ---|------------------ | ---------------- | ------------------------------------------------------------------------------------ | -------------------------------- |
+| Siska Peeks |Partij voor de Dieren             | Drente           | [@SiskaPeeks@mstdn.social](https://mstdn.social/@SiskaPeeks)   | ✅          
+
+
+
 ## Europees
 
 ### Leden van het Europees Parlement
