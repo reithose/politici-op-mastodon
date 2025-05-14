@@ -84,6 +84,20 @@ Aanvullingen en verbeteringen zijn [welkom](https://github.com/reithose/politici
 | Bart Groothuis     | [@bartgroothuis@mastodon.online](https://mastodon.online/@bartgroothuis)   | ✅                               |
 | Kim van Sparrentak | [@kimvsparrentak@eupolicy.social](https://eupolicy.social/@kimvsparrentak) | ✅                               |
 
+## Waterschappen
+
+### Leden
+
+| Naam        | Partij                | Waterschap               | Mastodon                                                   | Actief in de laatste 12 maanden? |
+| ----------- | --------------------- | ------------------------ | ---------------------------------------------------------- | -------------------------------- |
+| Fabian Zoon | Partij voor de Dieren | Hollands Noorderkwartier | [@fabianzoon@mastodon.nl](https://mastodon.nl/@fabianzoon) | ✅                               |
+
+### Partijen
+
+| Partij                | Waterschap               | Mastodon                                               | Actief in de laatste 12 maanden? |
+| --------------------- | ------------------------ | ------------------------------------------------------ | -------------------------------- |
+| Partij voor de Dieren | Hollands Noorderkwartier | [@PvdDHHNK@mastodon.nl](https://mastodon.nl/@PvdDHHNK) | ✅                               |
+
 ## Overig
 
 | Naam                   | Functie        | Mastodon                                                                               | Actief in de laatste 12 maanden? |
